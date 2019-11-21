@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="backstage-server" />
+        <module name="exhibitionOne-server" />
+        <module name="exhibitionTwo-server" />
+        <module name="member-server" />
+        <module name="order-server" />
+        <module name="pay-server" />
+        <module name="registe-server" />
+        <module name="spring-cloud-config" />
+        <module name="spring-cloud-domain" />
+        <module name="spring-cloud-eureka" />
+        <module name="spring-cloud-zuul" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
